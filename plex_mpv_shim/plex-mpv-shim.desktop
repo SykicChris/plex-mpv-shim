@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Plex MPV Shim
+Exec=env GDK_BACKEND=x11 plex-mpv-shim
+Icon=media
+Categories=AudioVideo;Player;
+Comment=Plex client for MPV
