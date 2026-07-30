@@ -1,3 +1,6 @@
+include LICENSE.md
+include README.md
+include plex-mpv-shim.desktop
 include plex_mpv_shim/systray.png
-recursive-include plex_mpv_shim/default_shader_pack *
-include plex_mpv_shim/mouse.lua
+recursive-include plex_mpv_shim *.lua
+recursive-include plex_mpv_shim *.png
